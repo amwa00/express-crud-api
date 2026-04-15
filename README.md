@@ -1,4 +1,4 @@
-# Express CRUD API – Product Management System
+# Express CRUD API - Product Management System
 
 ## 📌 Overview
 This is a simple REST API built with Express and MongoDB as an individual assignment. The main goal of the project was to learn how to build a backend using Node.js, structure an Express app properly, and connect it to a database using Mongoose.
